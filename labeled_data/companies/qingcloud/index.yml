@@ -1,0 +1,12 @@
+name: QingCloud
+type: Company
+data:
+  github_org:
+    - 37326490 # kubesphere
+    - 76039936 # kubesphere-sigs
+    - 75520609 # openfunction
+    - 5484381 # yunify
+    - 86996287 # OpenELB
+    - 31385114 # radondb
+    - 28995775 # QingCloudAppcenter
+    - 90166053 # quanxiang-cloud
