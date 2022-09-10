@@ -11,10 +11,10 @@
     "Y2022M7": 9.17,
     "Y2022M8": 8.53,
     "description": "Open source analysis tools",
-    "forks": "46",
+    "forks": 46,
     "language": "Jupyter Notebook",
-    "open_issues": "41",
-    "watchers": "201"
+    "open_issues": 41,
+    "watchers": 201
   },
   {
     "id": 464393350,
@@ -28,10 +28,10 @@
     "Y2022M7": 3.63,
     "Y2022M8": 3.09,
     "description": "22年春季开源软件设计与开发课程仓库。",
-    "forks": "13",
+    "forks": 13,
     "language": "Jupyter Notebook",
-    "open_issues": "0",
-    "watchers": "0"
+    "open_issues": 0,
+    "watchers": 0
   },
   {
     "id": 492365412,
@@ -45,10 +45,10 @@
     "Y2022M7": 4.3,
     "Y2022M8": 2.97,
     "description": "设计思维与精益创业公开课：从创意到产品",
-    "forks": "2",
+    "forks": 2,
     "language": null,
-    "open_issues": "6",
-    "watchers": "5"
+    "open_issues": 6,
+    "watchers": 5
   },
   {
     "id": 496919164,
@@ -62,10 +62,10 @@
     "Y2022M7": 2.09,
     "Y2022M8": 1.78,
     "description": "ECNU-2022社会计算",
-    "forks": "15",
+    "forks": 15,
     "language": "Jupyter Notebook",
-    "open_issues": "0",
-    "watchers": "0"
+    "open_issues": 0,
+    "watchers": 0
   },
   {
     "id": 471252840,
@@ -79,10 +79,10 @@
     "Y2022M7": 1.97,
     "Y2022M8": 1.68,
     "description": "OpenLeaderboard",
-    "forks": "3",
+    "forks": 3,
     "language": "JavaScript",
-    "open_issues": "12",
-    "watchers": "8"
+    "open_issues": 12,
+    "watchers": 8
   },
   {
     "id": 428629051,
@@ -96,10 +96,10 @@
     "Y2022M7": 1.01,
     "Y2022M8": 0.86,
     "description": "OpenGalaxy - Explore the open source world free.",
-    "forks": "3",
+    "forks": 3,
     "language": "JavaScript",
-    "open_issues": "5",
-    "watchers": "15"
+    "open_issues": 5,
+    "watchers": 15
   },
   {
     "id": 482134590,
@@ -113,10 +113,10 @@
     "Y2022M7": 0.41,
     "Y2022M8": 0.35,
     "description": null,
-    "forks": "1",
+    "forks": 1,
     "language": "Java",
-    "open_issues": "0",
-    "watchers": "0"
+    "open_issues": 0,
+    "watchers": 0
   },
   {
     "id": 366704475,
@@ -130,10 +130,10 @@
     "Y2022M7": 0.33,
     "Y2022M8": 0.28,
     "description": "Cloud Computing Systems: A Developer's Perspective",
-    "forks": "2",
+    "forks": 2,
     "language": "Python",
-    "open_issues": "0",
-    "watchers": "0"
+    "open_issues": 0,
+    "watchers": 0
   },
   {
     "id": 418534180,
@@ -147,10 +147,10 @@
     "Y2022M7": 0.18,
     "Y2022M8": 0.15,
     "description": null,
-    "forks": "4",
+    "forks": 4,
     "language": null,
-    "open_issues": "0",
-    "watchers": "2"
+    "open_issues": 0,
+    "watchers": 2
   },
   {
     "id": 281436829,
@@ -164,10 +164,10 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": "GrimoireLab: toolset for software development analytics",
-    "forks": "1",
+    "forks": 1,
     "language": "Python",
-    "open_issues": "3",
-    "watchers": "2"
+    "open_issues": 3,
+    "watchers": 2
   },
   {
     "id": 232109949,
@@ -181,10 +181,10 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": "GitHub 2019 Digital Report",
-    "forks": "21",
+    "forks": 21,
     "language": "HTML",
-    "open_issues": "8",
-    "watchers": "29"
+    "open_issues": 8,
+    "watchers": 29
   },
   {
     "id": 236075242,
@@ -198,10 +198,10 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": "GitHub 2019 Digital Report",
-    "forks": "21",
+    "forks": 21,
     "language": "HTML",
-    "open_issues": "8",
-    "watchers": "29"
+    "open_issues": 8,
+    "watchers": 29
   },
   {
     "id": 258729827,
@@ -215,10 +215,10 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": null,
-    "forks": "1",
+    "forks": 1,
     "language": "Python",
-    "open_issues": "3",
-    "watchers": "0"
+    "open_issues": 3,
+    "watchers": 0
   },
   {
     "id": 259283930,
@@ -232,10 +232,10 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": "Orchestrate the execution of GrimoireLab tools to produce a dashboard",
-    "forks": "1",
+    "forks": 1,
     "language": "Python",
-    "open_issues": "3",
-    "watchers": "0"
+    "open_issues": 3,
+    "watchers": 0
   },
   {
     "id": 259282389,
@@ -249,10 +249,10 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": "Panels from GrimoireLab dashboards",
-    "forks": "2",
+    "forks": 2,
     "language": "Python",
-    "open_issues": "6",
-    "watchers": "0"
+    "open_issues": 6,
+    "watchers": 0
   },
   {
     "id": 264449083,
@@ -266,9 +266,9 @@
     "Y2022M7": 0,
     "Y2022M8": 0,
     "description": "Grimoirelab-ELK for gitee backend",
-    "forks": "1",
+    "forks": 1,
     "language": "Python",
-    "open_issues": "1",
-    "watchers": "0"
+    "open_issues": 1,
+    "watchers": 0
   }
 ]
